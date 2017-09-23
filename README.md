@@ -4,4 +4,4 @@
 2. change database URL, AUTH key and router information on the code
 3. UPload the code into ESP8266-12E micro-controller
 4. RUN and ENJOY
-the colors are detected by color sensor and send to Firebase database for different 
+
